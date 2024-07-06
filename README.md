@@ -1,7 +1,7 @@
 # Kriptografi RSA Menggunakan Turing Machine
 > Task Seleksi Lab IRK created by Bintang Dwi Marthen
 
-versi **6 Juli 2024**
+versi **7 Juli 2024**
 
 ## 💡 Latar Belakang
 Sebagai mahasiswa Teknik Informatika Institut Teknologi Bandung yang telah lulus semua mata kuliah dari lab IRK, pasti kalian sudah melewati mata kuliah Matematika Diskrit dan Teori Bahasa Formal dan Otomata. Sebagai calon asisten IRK, maka pengetahuan kalian mengenai mata kuliah yang diampu oleh lab IRK sangat diperlukan. Dengan tugas ini, pengetahuan kalian mengenai mata kuliah MatDis dan TBFO akan diuji (terutama TBFO). Task kali ini tidaklah susah, hanya membuat sebuah <ins>_Turing Machine_</ins> yang dapat melakukan kalkulasi kriptografi RSA.
@@ -25,8 +25,9 @@ Selain _emulator_, Anda juga diwajibkan untuk membuat sebuah laporan singkat men
 1. Penjelasan apa itu _Turing Machine_
 2. Penjelasan cara kerja _Turing Machine_
 3. Pemetaan kriptografi RSA menjadi sebuah _Turing Machine_
-4. Contoh _step by step_ enkripsi RSA di _Turing Machine_ yang Anda buat
-5. Contoh _step by step_ dekripsi RSA di _Turing Machine_ yang Anda buat
+4. Struktur _Turing Machine_ yang dibuat ( _states_, _tape alphabet_, _blank symbol_, _input alphabet_, _transition function_, _initial state_, dan _final states_ )
+5. Contoh _step by step_ enkripsi RSA di _Turing Machine_ yang Anda buat
+6. Contoh _step by step_ dekripsi RSA di _Turing Machine_ yang Anda buat
 
 
 ### Spesifikasi Bonus (750 Poin)
